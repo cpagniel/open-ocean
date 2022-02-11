@@ -31,9 +31,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 [Physical Oceanographic Sensors](/tech-lists/physical-oceangraphic-sensors.md)
 
-[Biological Sensors and Biologging](#biological-sensors-and-biologging)
-
-[Chemical Sensors](#chemical-sensors)
+[Biologging](/tech-lists/biologging.md)
 
 [Vehicles](#vehicles)
 
@@ -41,23 +39,32 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 [Other](#other)
 
-## Biological Sensors and Biologging
+## Biologging
 
 [Arribada New Horizons ARGOS biologging & telemetry tag](https://arribada.org/2019/12/08/new-horizons-open-access-argos-telemetry/)
 
-## Chemical Sensors
-
 ## Vehicles
 
-[MakoBot](https://makobot-hauv.github.io) & [this ref](https://cseweb.ucsd.edu//~awilby/makobot-wilby.pdf)
+### Autonomous Underwater Vehicle (AUV)
 
-[LoCO AUV](http://irvlab.cs.umn.edu/other-projects/loco-auv)
+| Project Name | Publication | Build Guide | Image |
+| --- | --- | --- | --- |
+| LoCo AUV | [arXiv](https://arxiv.org/abs/2003.09041) | [GitHub](https://loco-auv.github.io/) | <img src="https://loco-auv.github.io/images/loco_on_reef.jpg" height="150px">|
+| MakoBot HAUV | [IEEE OES Autonomous Underwater Vehicle Symposium](https://cseweb.ucsd.edu//~awilby/makobot-wilby.pdf) | [GitHub](https://makobot-hauv.github.io/) | <img src="https://images.squarespace-cdn.com/content/v1/5ac1376ccef37245777c49e5/1624495962558-UEWDLCWAYZP3K9NRY3N8/makobot2.jpg" height="150px">|
 
-[OSUG: Open-source underwater glider](https://hackaday.io/project/20458-osug-open-source-underwater-glider)
+### Remotely Operated Vehicle (ROV)
 
-[OpenROV](https://github.com/OpenROV/)
+| Project Name | Publication | Build Guide | Image |
+| --- | --- | --- | --- |
+| OpenROV | n/a | [GitHub](https://github.com/OpenROV/) | <img src="https://i.pinimg.com/originals/25/78/70/2578706c1a77a9bea336bc1e251f4276.jpg" height="150px">|
 
-[AusOcean Rig](http://www.ausocean.org/s/doc/rig.html) & [Rig Guide](https://docs.google.com/document/d/e/2PACX-1vT6uoUuzZYrx7MUamo7hjr63FAS8YjyntPhlHFzassHCHK-uUGJDSmm2f7NbHgeXbRUH1hyPxVkwDXL/pub)
+### Underwater Glider
+
+| Project Name | Publication | Build Guide | Image |
+| --- | --- | --- | --- |
+| OSUG: Open-Source Underwater Glider | n/a | [Hackaday](https://hackaday.io/project/20458-osug-open-source-underwater-glider) | <img src="https://cdn.hackaday.io/images/4599881501784526370.jpg" height="150px">|
+
+
 
 [SphereROV](https://hackaday.io/project/158799-sphere-rov-8bitrobots)
 
@@ -124,6 +131,8 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 [Ocean Heart Beat](https://hackaday.io/project/11124-ocean-heart-beat)
 
 [Basic Observation Buoy](https://secoora.org/education-outreach/basic-observation-buoy/)
+
+[AusOcean Rig](http://www.ausocean.org/s/doc/rig.html) & [Rig Guide](https://docs.google.com/document/d/e/2PACX-1vT6uoUuzZYrx7MUamo7hjr63FAS8YjyntPhlHFzassHCHK-uUGJDSmm2f7NbHgeXbRUH1hyPxVkwDXL/pub)
 
 ## Other
 
