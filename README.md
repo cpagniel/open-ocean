@@ -15,7 +15,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 This repository is forked from https://github.com/jack-butler/open-ocean. We have created a release v1.0.0 that corresponds to the list in [Butler and Pagniello (2021)](https://doi.org/10.5670/oceanog.2021.supplement.02-35), where we published an overview of emerging, low-cost ocean observing technologies. This is an experimental and developmental space that will be included in future releases in the original repository.
 
 ## Table of Contents
-* [Camera Systems](#camera-systems)
+* [Camera Systems](/open-ocean/camera-systems.md)
 * [Acoustics](#acoustics)
 * [Physical Sensors](#physical-sensors)
 * [Biological Sensors and Biologging](#biological-sensors-and-biologging)
