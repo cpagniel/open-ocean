@@ -15,7 +15,7 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 This repository is forked from https://github.com/jack-butler/open-ocean. We have created a release v1.0.0 that corresponds to the list in [Butler and Pagniello (2021)](https://doi.org/10.5670/oceanog.2021.supplement.02-35), where we published an overview of emerging, low-cost ocean observing technologies. This is an experimental and developmental space that will be included in future releases in the original repository.
 
 ## Table of Contents
-* [Cameras](#cameras)
+* [Camera Systems](#camera-systems)
 * [Acoustics](#acoustics)
 * [Physical Sensors](#physical-sensors)
 * [Biological Sensors and Biologging](#biological-sensors-and-biologging)
@@ -25,7 +25,13 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 * [Other](#other)
 * [Resources for Getting Started](#resources-for-getting-started)
 
-## Cameras
+## Camera Systems
+
+### Raspberry Pi-Based Systems
+
+| Project Name | Publication | Build Guide | Other | Image |
+| --- | --- | --- | --- |
+| PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Pub](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | [PlasPI](https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg) |
 
 [PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
 
