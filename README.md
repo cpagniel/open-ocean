@@ -45,7 +45,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 | Low-Cost CTD Instrument | n/a | [Thesis](https://www.duo.uio.no/bitstream/handle/10852/68775/1/Low-cost-CTD-Instrument---Arduino-based-CTD-for-autonomous-measurement-platform.pdf) | |
 | OpenCTD | n/a | [Oceanography for Everyone](http://oceanographyforeveryone.com/project/openctd/) | <img src="https://github.com/OceanographyforEveryone/OpenCTD/blob/master/Images/IMG_20190614_141121.jpg" height="150px">|
 | PiCTD | n/a | [GitHub](https://github.com/haanhouse/pictd) | |
-| $9 Temperature Sensor | [Bulletin of Marine Science](https://doi.org/10.5343/bms.2019.0050) | | <img src="https://www.aoml.noaa.gov/wp-content/uploads/2018/10/tempsensor_sea.jpg" height="150px">| 
+| $9 Temperature Sensor | [Bulletin of Marine Science](https://doi.org/10.5343/bms.2019.0050) | n/a | <img src="https://www.aoml.noaa.gov/wp-content/uploads/2018/10/tempsensor_sea.jpg" height="150px">| 
 
 ### Niskin Bottles
 
