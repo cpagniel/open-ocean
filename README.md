@@ -40,12 +40,9 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
 | RPi Autonomous Underwater Recorder | [PLOS One](https://doi.org/10.1371/journal.pone.0130297) | n/a | <img src="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0130297/1/pone.0130297.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20220211%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20220211T065258Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=55210c0f63890c74db9cb2d1b0f79b380cf7be75945d9ec3baac327c2b6e53870e77947bc746293070dec400c0c2aec335cd6b887afd3806f3a02351187dac81fd4b7ec459aa800c6d4c542e1108cc214251d9181507eef52cb3ed91908ec2f9e0edde442774758f5cc3f7bf03a23a4373f3f15e3b2c3683ae67822c1881bca56de6a28360cf4a293ebb60472508243a197edc8af658c85667f1b9ea012db37274ca6bc36ea90c894c309ace81d662782d3cd78a94e3889326db8e24b1bb430f20ab236537c4b27f8d978c18d4d4c9da5cb7880ec973335d83515fb64f0cc0ad4f5ee3bbf0128c2876367c606b04e593c88338607b029e663ee52f15b822a0ce" height="150px"> |
+| HydroMoth | [Remote Sensing in Ecology and Conservation](https://doi.org/10.1002/rse2.249) | [Open Acoustic Devices[(https://www.openacousticdevices.info/audiomoth) | <img src="https://zslpublications.onlinelibrary.wiley.com/cms/asset/6d45dbb5-f1f3-4ad7-b1a1-b58e34bd9aef/rse2249-fig-0002-m.jpg" height="150px"> |
 
 ### Active Acoustics Systems
-
-[rPi-based hydrophone recorder](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0130297)
-
-[AudioMoth](https://www.sciencedirect.com/science/article/pii/S2468067219300306?via%3Dihub)
 
 [Low-Cost Hydrophone](http://lab.wildthings.io/2016/10/19/building-a-low-cost-hydrophone/)
 
