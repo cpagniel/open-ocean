@@ -23,8 +23,8 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 [WILDLABS](https://wildlabs.net)
 
 ## Open-Source Ocean Technologies
-* [Camera Systems](/camera-systems.md)
-* [Acoustics](acoustics.md)
+* [Camera Systems](/tech-lists/camera-systems.md)
+* [Acoustics](/tech-lists/acoustics.md)
 * [Physical Sensors](#physical-sensors)
 * [Biological Sensors and Biologging](#biological-sensors-and-biologging)
 * [Chemical Sensors](#chemical-sensors)
