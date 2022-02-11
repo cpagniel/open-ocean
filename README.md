@@ -25,7 +25,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 ## Open-Source Ocean Technologies
 * [Camera Systems](/tech-lists/camera-systems.md)
 * [Acoustics](/tech-lists/acoustics.md)
-* [Physical Sensors](#physical-sensors)
+* [Physical Oceanographic Sensors](#physical-oceangraphic-sensors)
 * [Biological Sensors and Biologging](#biological-sensors-and-biologging)
 * [Chemical Sensors](#chemical-sensors)
 * [Vehicles](#vehicles)
@@ -33,15 +33,20 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 * [Other](#other)
 * [Resources for Getting Started](#resources-for-getting-started)
 
-## Physical Sensors
+## Physical Oceanographic Sensors
+
+### Conductivity, Temperature and Depth (CTD)
+
+| Project Name | Publication | Build Guide | Image |
+| --- | --- | --- | --- |
+| OpenCTD | n/a | [Oceanography for Everyone](http://oceanographyforeveryone.com/project/openctd/) | <img src="https://github.com/OceanographyforEveryone/OpenCTD/blob/master/Images/IMG_20190614_141121.jpg" height="150px">|
+
 
 [NemoPi: sensor buoy “base station”](https://save-nemo.org/en/nemo_pi/)
 
 [Ocean Heart Beat heterogenous sensor network](https://hackaday.io/project/11124-ocean-heart-beat)
 
 [OceanXprize pH sensor](https://hackaday.io/project/4122-ocean-xprize-ph-sensor)
-
-[OpenCTD](http://oceanographyforeveryone.com/project/openctd/)
 
 [Niskin3D](http://oceanographyforeveryone.com/project/niskin3d/)
 
