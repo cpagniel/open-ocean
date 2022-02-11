@@ -31,17 +31,11 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
+| FishOASIS | [DIY Oceanography](https://doi.org/10.5670/oceanog.2021.305) | [GitHub](https://github.com/cpagniel/FishOASIS/) | ![FishOASIS](https://tos.org/oceanography/assets/images/content/34-3_pagniello_f1.jpg) |
+| LoBSTAS | n/a | [Hackaday](https://hackaday.io/project/160192-lobstas-underwater-camera-sensor) | ![LoBSTAS](https://cdn.hackaday.io/images/477431533507027703.jpg) |
+| Opaleye | n/a | [GitHub](https://github.com/suburbanmarine/opaleye) | |
 | PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Publication](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | ![PlasPI](https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg) |
-
-[PlasPI - 150m rPi Zero-based camera](https://www.sciencedirect.com/science/article/pii/S2468067218300919)
-
-[PipeCam](https://hackaday.io/project/21222-pipecam-low-cost-autonomous-underwater-camera#menu-description)
-
-[FishOASIS](https://tos.org/oceanography/article/an-optical-imaging-system-for-capturing-images-in-low-light-aquatic-habitats-using-only-ambient-light)
-
-[Opaleye](https://github.com/suburbanmarine/opaleye)
-
-[LoBSTAS](https://hackaday.io/project/160192-lobstas-underwater-camera-sensor)
+| PipeCam | n/a | [Hackaday](https://hackaday.io/project/21222-pipecam-low-cost-autonomous-underwater-camera) | ![PipeCam](https://cdn.hackaday.io/images/4901461519493298036.jpg) |
 
 [FishCam](https://www.sciencedirect.com/science/article/pii/S2468067220300195)
 
