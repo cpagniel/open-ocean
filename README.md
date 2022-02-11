@@ -14,7 +14,15 @@ Citation: Butler, J., and C.M.L.S. Pagniello. 2021. Emerging, low-cost ocean obs
 
 This repository is forked from https://github.com/jack-butler/open-ocean. We have created a release v1.0.0 that corresponds to the list in [Butler and Pagniello (2021)](https://doi.org/10.5670/oceanog.2021.supplement.02-35), where we published an overview of emerging, low-cost ocean observing technologies. This is an experimental and developmental space that will be included in future releases in the original repository.
 
-## Table of Contents
+## Resources for Getting Started
+
+[Oceanography for Everyone](https://oceanographyforeveryone.com)
+
+[OceanHackWeek](https://oceanhackweek.github.io)
+
+[WILDLABS](https://wildlabs.net)
+
+## Open-Source Ocean Technologies
 * [Camera Systems](/camera-systems.md)
 * [Acoustics](#acoustics)
 * [Physical Sensors](#physical-sensors)
@@ -170,11 +178,3 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 [Tilt Sensor](https://hackaday.io/project/158083-cheap-underwater-tilt-current-sensor)
 
 [Ocean Plastic Sensor](https://www.instructables.com/Remote-Controlled-Optical-Plastic-Sensor/)
-
-## Resources for Getting Started
-
-[Oceanography for Everyone](https://oceanographyforeveryone.com)
-
-[OceanHackWeek](https://oceanhackweek.github.io)
-
-[WILDLABS](https://wildlabs.net)
