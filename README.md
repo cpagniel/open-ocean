@@ -25,15 +25,14 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 [WILDLABS](https://wildlabs.net)
 
 ## Open-Source Ocean Technologies
-* [Camera Systems](/tech-lists/camera-systems.md)
-* [Acoustics](/tech-lists/acoustics.md)
-* [Physical Oceanographic Sensors](/tech-lists/physical-oceangraphic-sensors.md)
-* [Biological Sensors and Biologging](#biological-sensors-and-biologging)
-* [Chemical Sensors](#chemical-sensors)
-* [Vehicles](#vehicles)
-* [Buoys and Moorings](#buoys-and-moorings)
-* [Other](#other)
-* [Resources for Getting Started](#resources-for-getting-started)
+[Camera Systems](/tech-lists/camera-systems.md)
+[Acoustics](/tech-lists/acoustics.md)
+[Physical Oceanographic Sensors](/tech-lists/physical-oceangraphic-sensors.md)
+[Biological Sensors and Biologging](#biological-sensors-and-biologging)
+[Chemical Sensors](#chemical-sensors)
+[Vehicles](#vehicles)
+[Buoys and Moorings](#buoys-and-moorings)
+[Other](#other)
 
 ## Biological Sensors and Biologging
 
