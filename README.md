@@ -33,6 +33,8 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 | --- | --- | --- | --- |
 | FishOASIS | [DIY Oceanography](https://doi.org/10.5670/oceanog.2021.305) | [GitHub](https://github.com/cpagniel/FishOASIS/) | <img src="https://tos.org/oceanography/assets/images/content/34-3_pagniello_f1.jpg" height="150px"> |
 | FishCam | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00110) | [GitHub](https://github.com/xaviermouy/FishCam) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067220300195-ga1.jpg" height="150px"> |
+| IPAX | [Methods in Ecology and Evolution](https://doi.org/10.1111/2041-210X.13441) | [GitHub](https://github.com/plertvilai/IPAX/tree/v1.0) | <img src="https://besjournals.onlinelibrary.wiley.com/cms/asset/039bd59e-20fd-4a9c-bda9-63e23b4c8bad/mee313441-fig-0002-m.jpg" height="150px"> |
+| KOSMOS | [Sensors](https://www.mdpi.com/1424-8220/21/22/7724) | [Wikifactory](https://wikifactory.com/@konkarlab/kosmos30) | <img src="https://res.cloudinary.com/dbshcjrt3/image/upload/w_1480,h_986,c_fill,g_auto,q_auto/wikifactory-prod-uploads/150686/unnamed-1-25aa2.jpg" height="150px"> |
 | LoBSTAS | n/a | [Hackaday](https://hackaday.io/project/160192-lobstas-underwater-camera-sensor) | <img src="https://cdn.hackaday.io/images/477431533507027703.jpg" height="150px"> |
 | Opaleye | n/a | [GitHub](https://github.com/suburbanmarine/opaleye) | |
 | PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Publication](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg" height="150px"> |
@@ -42,12 +44,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
-| CoralCam | [HardwareX](https://doi.org/10.1016/j.ohx.2019.e00089) | [GitHub](https://github.com/cpagniel/FishOASIS/) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067219300537-ga1.jpg" height="150px"> |
-
-
-[Corona Cam](https://github.com/IanTBlack/corona_cam)
-
-[IPAX](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13441)
+| CoralCam | [HardwareX](https://doi.org/10.1016/j.ohx.2019.e00089) | [In Publication](https://www.sciencedirect.com/science/article/pii/S2468067219300537#s0025) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067219300537-ga1.jpg" height="150px"> |
 
 [KiloCam](https://www.youtube.com/watch?v=vf54ca9IuP4) & [here](https://docs.google.com/document/d/1m6b8CYEAjqsDW6sIBxGk0Cyw4AJ0YayyD0ug5scU-L8/edit)
 
