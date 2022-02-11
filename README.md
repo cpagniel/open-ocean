@@ -29,7 +29,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 ### Raspberry Pi-Based Systems
 
-| Project Name | Publication | Build Guide | Other | Image |
+| Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
 | PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Pub](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | [PlasPI](https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg) |
 
