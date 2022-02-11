@@ -24,7 +24,7 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 ## Open-Source Ocean Technologies
 * [Camera Systems](/camera-systems.md)
-* [Acoustics](#acoustics)
+* [Acoustics](acoustics.md)
 * [Physical Sensors](#physical-sensors)
 * [Biological Sensors and Biologging](#biological-sensors-and-biologging)
 * [Chemical Sensors](#chemical-sensors)
