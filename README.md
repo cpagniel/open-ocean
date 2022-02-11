@@ -31,15 +31,19 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
-| FishOASIS | [DIY Oceanography](https://doi.org/10.5670/oceanog.2021.305) | [GitHub](https://github.com/cpagniel/FishOASIS/) | <img src="https://tos.org/oceanography/assets/images/content/34-3_pagniello_f1.jpg" height="200px"> |
-| LoBSTAS | n/a | [Hackaday](https://hackaday.io/project/160192-lobstas-underwater-camera-sensor) | <img src="https://cdn.hackaday.io/images/477431533507027703.jpg" height="200px"> |
+| FishOASIS | [DIY Oceanography](https://doi.org/10.5670/oceanog.2021.305) | [GitHub](https://github.com/cpagniel/FishOASIS/) | <img src="https://tos.org/oceanography/assets/images/content/34-3_pagniello_f1.jpg" height="150px"> |
+| FishCam | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00110) | [GitHub](https://github.com/xaviermouy/FishCam) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067220300195-ga1.jpg" height="150px"> |
+| LoBSTAS | n/a | [Hackaday](https://hackaday.io/project/160192-lobstas-underwater-camera-sensor) | <img src="https://cdn.hackaday.io/images/477431533507027703.jpg" height="150px"> |
 | Opaleye | n/a | [GitHub](https://github.com/suburbanmarine/opaleye) | |
-| PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Publication](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg" height="200px"> |
-| PipeCam | n/a | [Hackaday](https://hackaday.io/project/21222-pipecam-low-cost-autonomous-underwater-camera) | <img src="https://cdn.hackaday.io/images/4901461519493298036.jpg" height="200px"> |
+| PlasPI | [HardwareX](https://doi.org/10.1016/j.ohx.2020.e00102) | [In Publication](https://www.sciencedirect.com/science/article/pii/S2468067218300919#s0035) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067218300919-gr1.jpg" height="150px"> |
+| PipeCam | n/a | [Hackaday](https://hackaday.io/project/21222-pipecam-low-cost-autonomous-underwater-camera) | <img src="https://cdn.hackaday.io/images/4901461519493298036.jpg" height="150px"> |
 
-[FishCam](https://www.sciencedirect.com/science/article/pii/S2468067220300195)
+### Ardunio-Based Systems
 
-[CoralCam](https://www.sciencedirect.com/science/article/pii/S2468067219300537)
+| Project Name | Publication | Build Guide | Image |
+| --- | --- | --- | --- |
+| CoralCam | [HardwareX](https://doi.org/10.1016/j.ohx.2019.e00089) | [GitHub](https://github.com/cpagniel/FishOASIS/) | <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2468067219300537-ga1.jpg" height="150px"> |
+
 
 [Corona Cam](https://github.com/IanTBlack/corona_cam)
 
