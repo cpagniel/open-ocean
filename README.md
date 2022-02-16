@@ -1,5 +1,3 @@
-[![Camille's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpagniel)](https://github.com/anuraghazra/github-readme-stats)
-
 # List of Open-Source Ocean Technology Projects and Resources ![GitHub last commit](https://img.shields.io/github/last-commit/jack-butler/open-ocean)
 
 This repository contains a living list of open-source ocean technologies first compiled for the article "[Emerging, Low-Cost Ocean Observing Technologies to Democratize Access to the Ocean](https://github.com/jack-butler/open-ocean/blob/main/ocean-observing-2021-butler.pdf)".
