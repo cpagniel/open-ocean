@@ -145,3 +145,5 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 [Tilt Sensor](https://hackaday.io/project/158083-cheap-underwater-tilt-current-sensor)
 
 [Ocean Plastic Sensor](https://www.instructables.com/Remote-Controlled-Optical-Plastic-Sensor/)
+
+https://sed.web.unc.edu/optical-backscatter-sensors/#:~:text=Optical%20backscatter%20sensors%20(OBSs)%20are
