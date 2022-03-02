@@ -57,20 +57,15 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
 | OpenROV | n/a | [GitHub](https://github.com/OpenROV/) | <img src="https://i.pinimg.com/originals/25/78/70/2578706c1a77a9bea336bc1e251f4276.jpg" height="150px">|
+| S-ROV | n/a | [Hackaday](https://hackaday.io/project/19148-s-rov-underwater-drone) | <img src="https://cdn.hackaday.io/images/8393141487046263443.JPG" height="150px">|
+| SphereROV | n/a | [Hackaday](https://hackaday.io/project/158799-sphere-rov-8bitrobots) | <img src="https://cdn.hackaday.io/images/8591331531615483673.jpg" height="150px">|
+| Underwater MicroDone | n/a | [Hackaday](https://hackaday.io/project/173978-underwater-microdrone) | <img src="https://cdn.hackaday.io/images/4590381595629207571.JPG" height="150px">|
 
 ### Underwater Glider
 
 | Project Name | Publication | Build Guide | Image |
 | --- | --- | --- | --- |
 | OSUG: Open-Source Underwater Glider | n/a | [Hackaday](https://hackaday.io/project/20458-osug-open-source-underwater-glider) | <img src="https://cdn.hackaday.io/images/4599881501784526370.jpg" height="150px">|
-
-
-
-[SphereROV](https://hackaday.io/project/158799-sphere-rov-8bitrobots)
-
-[S-ROV](https://hackaday.io/project/19148-s-rov-underwater-drone)
-
-[Underwater MicroDrone](https://hackaday.io/project/173978-underwater-microdrone)
 
 [Underwater Drone i-GOR](https://hackaday.io/project/167565-underwater-drone-i-gor)
 
