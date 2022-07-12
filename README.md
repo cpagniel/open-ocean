@@ -143,3 +143,5 @@ This repository is forked from https://github.com/jack-butler/open-ocean. We hav
 https://sed.web.unc.edu/optical-backscatter-sensors/#:~:text=Optical%20backscatter%20sensors%20(OBSs)%20are
 
 https://github.com/gauteh/sfy
+
+https://github.com/PlanktoScope/PlanktoScope
